@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{8F564528-8993-431E-A749-868100D732CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSLAEntities", "TSLAEntities\TSLAEntities.csproj", "{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntities", "TSLAEntities\DBEntities.csproj", "{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

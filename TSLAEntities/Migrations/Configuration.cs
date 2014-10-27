@@ -1,4 +1,4 @@
-namespace TSLAEntities.Migrations
+namespace DBEntities.Migrations
 {
     using System;
     using System.Data.Entity;

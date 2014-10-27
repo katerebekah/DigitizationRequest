@@ -1,4 +1,4 @@
-namespace TSLAEntities
+namespace DBEntities
 {
     using System;
     using System.Data.Entity;
