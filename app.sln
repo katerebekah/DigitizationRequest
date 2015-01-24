@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{8F564528-8993-431E-A749-868100D732CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webforms", "app\webforms.csproj", "{8F564528-8993-431E-A749-868100D732CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntities", "TSLAEntities\DBEntities.csproj", "{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "application\application.csproj", "{164F2FD9-A3A8-43B7-BA71-F6F48845F332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0CF404-C8BB-4E03-BC17-C946799FBD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164F2FD9-A3A8-43B7-BA71-F6F48845F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164F2FD9-A3A8-43B7-BA71-F6F48845F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164F2FD9-A3A8-43B7-BA71-F6F48845F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164F2FD9-A3A8-43B7-BA71-F6F48845F332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

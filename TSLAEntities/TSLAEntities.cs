@@ -12,6 +12,11 @@ namespace DBEntities
             : base("name=TSLAEntities")
         {
         }
+        public static TSLAEntities Create()
+        {
+            return new TSLAEntities();
+        }
+
         public virtual DbSet<Collection> Collections { get; set; }
         public virtual DbSet<FileFormat> FileFormats { get; set; }
         public virtual DbSet<Item> Items { get; set; }
